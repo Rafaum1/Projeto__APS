@@ -391,6 +391,7 @@ header ul .dropdown-menu a{
 
 .scroll-horizontal .cards img {
     display: block;
+    width: 40rem;
 }
 
 .btn-card {
